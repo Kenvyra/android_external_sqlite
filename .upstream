@@ -1,0 +1,5 @@
+{
+    "name": "yaap",
+    "fetch": "https://github.com/yaap/external_sqlite",
+    "revision": "refs/heads/thirteen"
+}
